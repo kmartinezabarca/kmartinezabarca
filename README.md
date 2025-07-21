@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/z5zkIfF.jpeg" alt="Banner de Laboratorio de I+D"/>
+  <img src="https://i.imgur.com/w2kaw7D.jpeg" alt="Banner de Laboratorio de I+D"/>
 </div>
 
 <h1 align="center">Hola 👋, soy Kevin Aldair Martinez Abarca</h1>
